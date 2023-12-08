@@ -1,4 +1,4 @@
-# Reposit-rio
+# python_basico_ao_avancado
 
 # Curso Python do Básico ao Avançado
 
