@@ -27,9 +27,7 @@ for dicionario in perguntas:
     for i, opcao in enumerate(opcoes):
         print(f'{i})',opcao)
     print()
-    
-
-    
+        
     escolha  = input('Escolha uma opção: ')
     
     acertou = False
