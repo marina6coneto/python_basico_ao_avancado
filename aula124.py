@@ -15,12 +15,10 @@ class Caneta:
 
     @property
     def cor(self):
-        print('ESTOU NO GETTER')
         return self._cor
 
     @cor.setter
     def cor(self, valor):
-        print('ESTOU NO SETTER')
         self._cor = valor
 
     @property
