@@ -1,3 +1,4 @@
 # Ignorar arquivos
 .vscode/
 __pycache__/
+.env
